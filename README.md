@@ -1,8 +1,8 @@
-#Mandrill module for Koahana 3
+#Mandrill module for Kohana 3
 
 This module allows you to communicate with Mandrill API 1.0
 
-See [Mandrill API documentation](https://github.com/kohana/kohana)
+[Mandrill API documentation](https://github.com/kohana/kohana)
 ---
 
 ##Requirements
